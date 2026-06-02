@@ -1,6 +1,6 @@
 # Getting started
 
-by: Klara
+by: Klara Sobotikova
 
 date: June 2, 2026
 
