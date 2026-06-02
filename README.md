@@ -1,5 +1,5 @@
 # Getting started
 
-by: Klara Sobotikova
+by: Klara
 
 date: June 2, 2026
